@@ -1,0 +1,1 @@
+MotzkinApp is a small Java package I wrote to calculate two-variable recurrence relations for a Combinatorics REU I did at Valparaiso University in 2019. It computes entries of proper Riordan arrays with polynomial A- and Z-sequences. This includes famous families of integers such as binomial coefficients, Catalan numbers, and Motzkin numbers.
